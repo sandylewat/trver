@@ -1,0 +1,21 @@
+{
+   "name": "trver",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT",
+  "author": {
+     "name": "Sandy Socrates",
+     "url": "https://github.com/sandylewat"
+  },
+  "repository": {
+     "url": "https://github.com/sandylewat/trver"
+  }
+}
